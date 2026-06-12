@@ -34,3 +34,12 @@ lesson-info.yaml
 lesson-remote-info.yaml
 task-info.yaml
 task-remote-info.yaml
+
+# Course/PyCharm/Udemy metadata
+course-info.yaml
+course-remote-info.yaml
+lesson-info.yaml
+lesson-remote-info.yaml
+task-info.yaml
+task-remote-info.yaml
+task.md
